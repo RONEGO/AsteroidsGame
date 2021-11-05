@@ -1,0 +1,17 @@
+{
+    "name": "UFO",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6d63d6aded90e47f2b2b2400c3150f23",
+        "GUID:83b7e4f47be9b4527809294afa27a6ec"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
